@@ -1,0 +1,26 @@
+<AGM025_8in55_Triple_Mk16_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGM025_8in55_Triple_Mk16_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGM025_8in55_Triple_Mk16_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGM025_8in55_Triple_Mk16_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/default_ao.tga	</Texture>
+	</property>
+</AGM025_8in55_Triple_Mk16_skinned.mfm>

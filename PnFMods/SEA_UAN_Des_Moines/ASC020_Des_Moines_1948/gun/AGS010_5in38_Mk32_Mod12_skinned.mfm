@@ -1,0 +1,20 @@
+<AGS010_5in38_Mk32_Mod12_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGS010_5in38_Mk32_Mod12_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGS010_5in38_Mk32_Mod12_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGS010_5in38_Mk32_Mod12_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/default_ao.tga	</Texture>
+	</property>
+</AGS010_5in38_Mk32_Mod12_skinned.mfm>

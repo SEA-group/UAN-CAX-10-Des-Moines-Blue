@@ -1,1 +1,70 @@
-<AD044_Director_Mk54_lod1.visual><boundingBox><min>-0.248936 0.000000 -0.125553</min><max>0.248936 0.132227 0.085240</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>DirectorMk54</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MP_AM655_Radar_Mk13_Mod2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.064956 -0.023850 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>DirectorMk54</node><geometry><vertices>DirectorMk54_lod1Shape.vertices</vertices><primitive>DirectorMk54_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/33adf00ab31896cb25501d41c8cbbe22.mfm</mfm></material></primitiveGroup></geometry></renderSet></AD044_Director_Mk54_lod1.visual>
+<AD044_Director_Mk54_lod1.visual>
+	<boundingBox>
+		<min>	-0.248936 0.000000 -0.125553	</min>
+		<max>	0.248936 0.160662 0.085240	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	DirectorMk54	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	DirectorMk54_wires	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM652_Radar_Mk13	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.152784 -0.023908 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	DirectorMk54	</node>
+		<geometry>
+			<vertices>	DirectorMk54_lod1Shape.vertices	</vertices>
+			<primitive>	DirectorMk54_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/AD044_Director_Mk54.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	DirectorMk54_wires	</node>
+		<geometry>
+			<vertices>	DirectorMk54_wires_lod1Shape.vertices	</vertices>
+			<primitive>	DirectorMk54_wires_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/AD044_Director_Mk54_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AD044_Director_Mk54_lod1.visual>

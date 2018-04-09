@@ -1,1 +1,7 @@
-<AAS011_Curtiss_SC2_lod3.model><castsShadow>false</castsShadow><exporter>1.6</exporter><extent>200.000000</extent><nodefullVisual>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAS011_Curtiss_SC2_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AAS011_Curtiss_SC2_lod3.model>
+<AAS011_Curtiss_SC2_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<extent>	200.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAS011_Curtiss_SC2_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAS011_Curtiss_SC2_lod3.model>

@@ -1,0 +1,8 @@
+<AGA173_3in50_Twin_Mark_33_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA173_3in50_Twin_Mark_33_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA173_3in50_Twin_Mark_33_lod1	</nodefullVisual>
+	<extent>	6.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA173_3in50_Twin_Mark_33_lod1.model>

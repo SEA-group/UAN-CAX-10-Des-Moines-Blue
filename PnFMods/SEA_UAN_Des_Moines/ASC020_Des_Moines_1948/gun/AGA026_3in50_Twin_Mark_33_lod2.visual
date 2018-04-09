@@ -1,1 +1,56 @@
-<AGA026_3in50_Twin_Mark_33_lod2.visual><boundingBox><min>-0.134597 -0.000000 -0.110055</min><max>0.134597 0.235420 0.185612</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>TwinMark33</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_ARF_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.062843 0.164646 0.034337 1.000000</row3></transform></node><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>0.051963 0.231995 0.184688 1.000000</row3></transform></node><node><identifier>HP_gunFire2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.866025 -0.500000 0.000000</row1><row2>0.000000 0.500000 0.866025 0.000000</row2><row3>-0.052012 0.231995 0.184688 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>TwinMark33</node><geometry><vertices>TwinMark33_lod2Shape.vertices</vertices><primitive>TwinMark33_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Gun</identifier><mfm>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/84e13bcf320f29f19ee801d7fdeedfd3.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGA026_3in50_Twin_Mark_33_lod2.visual>
+<AGA026_3in50_Twin_Mark_33_lod2.visual>
+	<boundingBox>
+		<min>	-0.134597 -0.000000 -0.110055	</min>
+		<max>	0.134597 0.235420 0.185612	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	TwinMark33	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.051963 0.231995 0.184688 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.052012 0.231995 0.184688 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	TwinMark33	</node>
+		<geometry>
+			<vertices>	TwinMark33_lod2Shape.vertices	</vertices>
+			<primitive>	TwinMark33_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA026_3in50_Twin_Mark_33_lod2.visual>

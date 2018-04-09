@@ -1,0 +1,8 @@
+<C005_Grid_2_alpha_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/C005_Grid_2_alpha_a.dds	</Texture>
+	</property>
+</C005_Grid_2_alpha_skinned.mfm>

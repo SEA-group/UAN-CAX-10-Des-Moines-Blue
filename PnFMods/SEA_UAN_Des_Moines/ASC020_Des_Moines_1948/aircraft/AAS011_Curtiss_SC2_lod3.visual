@@ -1,1 +1,47 @@
-<AAS011_Curtiss_SC2_lod3.visual><boundingBox><min>-0.411533 -0.026239 -0.412964</min><max>0.413737 0.288424 0.323344</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>hull</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFireBack</identifier><transform><row0>-1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.229506 -0.054066 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>hull</node><geometry><vertices>hull_lodShape3.vertices</vertices><primitive>hull_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>PBS_Plane</identifier><mfm>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/3e5a3a1cb74eddbaa65754f85ad29689.mfm</mfm></material></primitiveGroup></geometry></renderSet></AAS011_Curtiss_SC2_lod3.visual>
+<AAS011_Curtiss_SC2_lod3.visual>
+	<boundingBox>
+		<min>	-0.411533 0.000740 -0.481613	</min>
+		<max>	0.413737 0.315403 0.254694	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	hull	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFireBack	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.256486 -0.122716 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hull_lodShape3.vertices	</vertices>
+			<primitive>	hull_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAS011_Curtiss_SC2.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AAS011_Curtiss_SC2_lod3.visual>

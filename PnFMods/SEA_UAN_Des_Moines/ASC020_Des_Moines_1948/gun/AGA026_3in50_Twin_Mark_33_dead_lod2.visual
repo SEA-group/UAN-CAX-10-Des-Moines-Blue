@@ -1,1 +1,38 @@
-<AGA026_3in50_Twin_Mark_33_dead_lod2.visual><boundingBox><min>-0.140090 0.000000 -0.127163</min><max>0.158822 0.266363 0.159003</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>TwinMark33_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>TwinMark33_dead</node><geometry><vertices>TwinMark33_dead_lod2Shape.vertices</vertices><primitive>TwinMark33_dead_lod2Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/49f71cd11607c65589be2cf77ff617be.mfm</mfm></material></primitiveGroup></geometry></renderSet></AGA026_3in50_Twin_Mark_33_dead_lod2.visual>
+<AGA026_3in50_Twin_Mark_33_dead_lod2.visual>
+	<boundingBox>
+		<min>	-0.140090 0.000000 -0.127163	</min>
+		<max>	0.158822 0.266363 0.159003	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	TwinMark33_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	TwinMark33_dead	</node>
+		<geometry>
+			<vertices>	TwinMark33_dead_lod2Shape.vertices	</vertices>
+			<primitive>	TwinMark33_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA026_3in50_Twin_Mark_33_dead_lod2.visual>

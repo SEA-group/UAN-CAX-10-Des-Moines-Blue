@@ -1,1 +1,8 @@
-<ASC020_Des_Moines_1948_Stern_lod1.model><extent>20.000000</extent><parent>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_lod2</parent><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASC020_Des_Moines_1948_Stern_lod1.model>
+<ASC020_Des_Moines_1948_Stern_lod1.model>
+	<extent>	25.0000	</extent>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_lod2	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_Stern_lod1.model>
