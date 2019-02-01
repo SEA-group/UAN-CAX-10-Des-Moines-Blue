@@ -1,7 +1,7 @@
 <AAS011_Curtiss_SC2_lod2.visual>
 	<boundingBox>
-		<min>	-0.414175 -0.001326 -0.483760	</min>
-		<max>	0.414175 0.328964 0.254694	</max>
+		<min>	-0.416983 -0.001231 -0.483855	</min>
+		<max>	0.416982 0.330663 0.254694	</max>
 	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
@@ -19,23 +19,14 @@
 				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
-			<node>
-				<identifier>	HP_gunFireBack	</identifier>
-				<transform>
-					<row0>	-1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.256486 -0.122716 1.000000	</row3>
-				</transform>
-			</node>
 		</node>
 	</node>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
 		<node>	hull	</node>
 		<geometry>
-			<vertices>	hull_lodShape2.vertices	</vertices>
-			<primitive>	hull_lodShape2.indices	</primitive>
+			<vertices>	hull_lod2Shape.vertices	</vertices>
+			<primitive>	hull_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PBS_Plane	</identifier>

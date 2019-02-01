@@ -1,10 +1,7 @@
-<AAF024_XP_40S.mfm>
+<AAF024_XP_40S_wire.mfm>
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS.fx	</fx>
-	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/default_ao.dds	</Texture>
-	</property>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAF024_XP_40S_a.dds	</Texture>
 	</property>
@@ -14,4 +11,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAF024_XP_40S_mg.dds	</Texture>
 	</property>
-</AAF024_XP_40S.mfm>
+</AAF024_XP_40S_wire.mfm>
