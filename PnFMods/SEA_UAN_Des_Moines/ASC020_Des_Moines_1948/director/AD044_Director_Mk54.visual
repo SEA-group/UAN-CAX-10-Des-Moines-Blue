@@ -47,7 +47,7 @@
 			<primitive>	DirectorMk54Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/AD044_Director_Mk54.mfm	</mfm>
 				</material>
 			</primitiveGroup>
