@@ -1,0 +1,13 @@
+<AGM025_8in55_Triple_Mk16_lod2.model>
+	<extent>	36.0000	</extent>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/lods/AGM025_8in55_Triple_Mk16_lod3	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.347246 -0.019204 -0.467433	</min>
+		<max>	0.347389 0.312430 0.679977	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/lods/AGM025_8in55_Triple_Mk16_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM025_8in55_Triple_Mk16_lod2.model>

@@ -1,6 +1,6 @@
 <AGM025_8in55_Triple_Mk16.model>
 	<extent>	5.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGM025_8in55_Triple_Mk16_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/lods/AGM025_8in55_Triple_Mk16_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.347246 -0.019161 -0.467445	</min>

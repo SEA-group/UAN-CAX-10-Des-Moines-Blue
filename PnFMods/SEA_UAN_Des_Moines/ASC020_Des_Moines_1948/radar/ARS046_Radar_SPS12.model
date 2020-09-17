@@ -11,7 +11,7 @@
 		<max>	0.193189 0.213069 0.193189	</max>
 	</visibilityBox>
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/radar/ARS046_Radar_SPS12_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/radar/lods/ARS046_Radar_SPS12_lod1	</parent>
 	<animation>
 		<name>	Rotation6rpm	</name>
 		<frameRate>	30.000000	</frameRate>

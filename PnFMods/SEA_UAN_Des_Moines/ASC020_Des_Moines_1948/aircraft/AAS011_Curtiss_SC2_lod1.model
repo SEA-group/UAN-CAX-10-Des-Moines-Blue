@@ -1,9 +1,0 @@
-<AAS011_Curtiss_SC2_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAS011_Curtiss_SC2_lod2	</parent>
-	<extent>	20.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/aircraft/AAS011_Curtiss_SC2_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AAS011_Curtiss_SC2_lod1.model>

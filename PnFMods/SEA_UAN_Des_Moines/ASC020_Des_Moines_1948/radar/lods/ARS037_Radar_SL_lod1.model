@@ -1,0 +1,13 @@
+<ARS037_Radar_SL_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.041527 0.009555 -0.047952	</min>
+		<max>	0.041527 0.058946 0.047952	</max>
+	</visibilityBox>
+	<extent>	10.000000	</extent>
+	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/radar/lods/ARS037_Radar_SL_lod2	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/radar/lods/ARS037_Radar_SL_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS037_Radar_SL_lod1.model>

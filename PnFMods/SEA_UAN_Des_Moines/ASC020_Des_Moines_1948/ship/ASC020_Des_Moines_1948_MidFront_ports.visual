@@ -110,15 +110,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTC0971	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000004 0.936623 1.620828	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_ATC0705	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000	</row0>
@@ -236,24 +227,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC0706	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000001 0.967789 1.427831	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0718	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000015 1.232279 0.569188	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_AM159_Voice_Tube	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -278,15 +251,6 @@
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.285543 2.196298 -0.065433 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0724	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000007 0.374354 2.701212	</row3>
 				</transform>
 			</node>
 			<node>
@@ -332,15 +296,6 @@
 					<row1>	0.000000 1.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000	</row2>
 					<row3>	0.001603 2.229698 0.036283	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0704	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000009 0.308132 3.334332	</row3>
 				</transform>
 			</node>
 			<node>
