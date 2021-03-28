@@ -47,7 +47,7 @@
 			<primitive>	DirectorMk54_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/AD044_Director_Mk54.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -61,7 +61,7 @@
 			<primitive>	DirectorMk54_wires_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/director/AD044_Director_Mk54_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

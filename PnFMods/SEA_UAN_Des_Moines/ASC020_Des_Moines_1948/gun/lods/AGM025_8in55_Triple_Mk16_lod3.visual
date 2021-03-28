@@ -139,7 +139,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGM025_8in55_Triple_Mk16_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

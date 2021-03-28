@@ -34,7 +34,7 @@
 			<primitive>	TwinMark33_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -48,7 +48,7 @@
 			<primitive>	RadarSPG37_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun1	</identifier>
+					<identifier>	SHIPMATX_PBS_Gun1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/ARF043_Radar_Mk25.mfm	</mfm>
 				</material>
 			</primitiveGroup>

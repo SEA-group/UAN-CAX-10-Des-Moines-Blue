@@ -75,7 +75,7 @@
 			<primitive>	RadarSPS14_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar1	</identifier>
+					<identifier>	SHIPMATX_PBS_radar1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/radar/ARS045_Radar_SG6_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
