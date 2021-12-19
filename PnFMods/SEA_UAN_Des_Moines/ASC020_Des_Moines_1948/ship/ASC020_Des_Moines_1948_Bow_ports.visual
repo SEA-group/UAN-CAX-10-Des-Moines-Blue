@@ -74,42 +74,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC0665	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000194 0.512566 5.747160	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM004_Barbette_Out	</identifier>
-				<transform>
-					<row0>	2.600000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.500000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 2.600000 0.000000	</row2>
-					<row3>	0.000000 0.494040 3.956848 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC0663	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000002 0.499483 5.655129	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM049_Signal_Lamp_1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 1.029883 7.262616 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_AD_11	</identifier>
 				<transform>
 					<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
@@ -152,6 +116,141 @@
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.500710 3.956848 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM004_Barbette_Out	</identifier>
+				<transform>
+					<row0>	2.600000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.500000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 2.600000 0.000000	</row2>
+					<row3>	0.000000 0.494040 3.956848 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM002_Fairlead_3	</identifier>
+				<transform>
+					<row0>	0.1386 0.0732 1.1897 0.0000	</row0>
+					<row1>	-0.0177 1.1977 -0.0716 0.0000	</row1>
+					<row2>	-1.3905 -0.0108 0.1626 0.0000	</row2>
+					<row3>	-0.3277 0.5132 5.8759 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM002_Fairlead_3_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.1308 0.0732 1.1906 0.0000	</row0>
+					<row1>	-0.0013 1.1977 -0.0738 0.0000	</row1>
+					<row2>	-1.3917 -0.0108 -0.1523 0.0000	</row2>
+					<row3>	0.3277 0.5126 5.8759 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2	</identifier>
+				<transform>
+					<row0>	0.1250 0.0594 1.1920 0.0000	</row0>
+					<row1>	-0.0015 1.1985 -0.0596 0.0000	</row1>
+					<row2>	-1.1935 0.0047 0.1249 0.0000	</row2>
+					<row3>	-0.4309 0.4699 4.9893 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.1583 0.0889 1.1862 0.0000	</row0>
+					<row1>	-0.0031 1.1967 -0.0893 0.0000	</row1>
+					<row2>	-1.1895 0.0087 0.1581 0.0000	</row2>
+					<row3>	-0.2508 0.5553 6.5050 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_2	</identifier>
+				<transform>
+					<row0>	-0.1256 0.0594 1.1919 0.0000	</row0>
+					<row1>	0.0109 1.1985 -0.0586 0.0000	</row1>
+					<row2>	-1.1934 0.0047 -0.1260 0.0000	</row2>
+					<row3>	0.4305 0.4699 4.9893 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM004_Fairlead_2_INDEX_3	</identifier>
+				<transform>
+					<row0>	-0.1593 0.0889 1.1861 0.0000	</row0>
+					<row1>	0.0205 1.1967 -0.0870 0.0000	</row1>
+					<row2>	-1.1892 0.0087 -0.1603 0.0000	</row2>
+					<row3>	0.2504 0.5553 6.5050 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM026_Break_Handwheel_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0251 0.4995 5.6769 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM026_Break_Handwheel_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1791 0.4995 5.6334 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM026_Break_Handwheel_1_INDEX_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0251 0.4995 5.6769 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM049_Signal_Lamp_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.0299 7.2626 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM161_Anchor_top	</identifier>
+				<transform>
+					<row0>	-0.6798 0.0559 0.4063 0.0000	</row0>
+					<row1>	-0.3720 0.1803 -0.6473 0.0000	</row1>
+					<row2>	-0.1425 -0.7697 -0.1325 0.0000	</row2>
+					<row3>	0.2596 0.5345 6.6856 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM161_Anchor_top_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.6798 -0.0559 -0.4063 0.0000	</row0>
+					<row1>	0.3720 0.1803 -0.6473 0.0000	</row1>
+					<row2>	0.1425 -0.7697 -0.1325 0.0000	</row2>
+					<row3>	-0.2596 0.5345 6.6856 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM162_Anchor_down	</identifier>
+				<transform>
+					<row0>	-0.7660 0.2045 -0.0417 0.0000	</row0>
+					<row1>	0.0871 0.1690 -0.7708 0.0000	</row1>
+					<row2>	-0.1897 -0.7483 -0.1855 0.0000	</row2>
+					<row3>	0.2596 0.5345 6.6856 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM162_Anchor_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.7660 -0.2045 0.0417 0.0000	</row0>
+					<row1>	-0.0871 0.1690 -0.7708 0.0000	</row1>
+					<row2>	0.1897 -0.7483 -0.1855 0.0000	</row2>
+					<row3>	-0.2596 0.5345 6.6856 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
