@@ -1,13 +1,6 @@
 <ASC020_Des_Moines_1948_MidFront.model>
-	<extent>	10.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/lods/ASC020_Des_Moines_1948_MidFront_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.812230 -0.535760 -2.427509	</min>
-		<max>	0.812229 3.014528 2.424780	</max>
-	</visibilityBox>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_MidFront	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_MidFront.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ASC020_Des_Moines_1948_MidFront.model>

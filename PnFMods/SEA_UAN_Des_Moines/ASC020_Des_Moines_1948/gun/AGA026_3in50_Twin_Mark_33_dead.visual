@@ -1,38 +1,106 @@
 <AGA026_3in50_Twin_Mark_33_dead.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	TwinMark33_dead	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.145065 0.000000 -0.127163	</min>
 		<max>	0.163001 0.266363 0.157315	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	TwinMark33_dead	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	TwinMark33_dead	</node>
-		<geometry>
-			<vertices>	TwinMark33_deadShape.vertices	</vertices>
-			<primitive>	TwinMark33_deadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	TwinMark33_deadShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	TwinMark33_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	TwinMark33_dead_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	TwinMark33_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	TwinMark33_dead_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	TwinMark33_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	TwinMark33_dead_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	TwinMark33_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/gun/AGA026_3in50_Twin_Mark_33_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	TwinMark33_deadShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	4.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	TwinMark33_dead_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	20.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	TwinMark33_dead_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	70.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	TwinMark33_dead_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </AGA026_3in50_Twin_Mark_33_dead.visual>

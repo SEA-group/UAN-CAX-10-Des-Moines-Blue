@@ -1,12 +1,6 @@
 <ASC020_Des_Moines_1948_Stern_ports.model>
-	<extent>	200.0000	</extent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.480707 0.529198 -0.495175	</min>
-		<max>	-0.480707 0.529198 -0.495175	</max>
-	</visibilityBox>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_ports	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_Moines_1948_Stern_ports.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ASC020_Des_Moines_1948_Stern_ports.model>

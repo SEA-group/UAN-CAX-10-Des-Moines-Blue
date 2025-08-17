@@ -1,79 +1,23 @@
 <ASC020_Des_Moines_1948.visual>
-	<boundingBox>
-		<min>	-0.868584 -0.548096 -7.343977	</min>
-		<max>	0.868584 3.030345 7.280390	</max>
-	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	export	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_Full	</identifier>
+				<identifier>	export	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Bow	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_MidFront	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_MidBack	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Stern	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Full	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000	</row3>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	DeckHouse	</identifier>
+					<identifier>	HP_Full	</identifier>
 					<transform>
 						<row0>	1.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 1.000000 0.000000	</row1>
@@ -81,7 +25,108 @@
 						<row3>	0.000000 0.000000 0.000000	</row3>
 					</transform>
 				</node>
+				<node>
+					<identifier>	HP_Bow	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_MidFront	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_MidBack	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Stern	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Full	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	DeckHouse	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000	</row3>
+						</transform>
+					</node>
+				</node>
 			</node>
 		</node>
-	</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.868584 -0.548096 -7.343977	</min>
+		<max>	0.868584 3.030345 7.280390	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	Full_lod4Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Full	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_HullX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_moines_1948_hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	DeckHouse_lod4Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/ASC020_Des_moines_1948_deck.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	400.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets />
+		</lod>
+		<lod>
+			<extent>	1000.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Full_lod4Shape	</renderSet>
+				<renderSet>	DeckHouse_lod4Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </ASC020_Des_Moines_1948.visual>

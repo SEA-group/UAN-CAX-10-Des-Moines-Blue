@@ -1,8 +1,0 @@
-<ASC020_Des_Moines_1948_Stern_lod2.model>
-	<extent>	40.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/lods/ASC020_Des_Moines_1948_Stern_lod3	</parent>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_UAN_Des_Moines/ASC020_Des_Moines_1948/ship/lods/ASC020_Des_Moines_1948_Stern_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ASC020_Des_Moines_1948_Stern_lod2.model>
